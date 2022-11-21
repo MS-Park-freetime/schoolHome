@@ -1,0 +1,31 @@
+@charset "UTF-8";
+*{
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+	font-family: "맑은 고딕";
+ }
+a{color:inherit; text-decoration:none;}
+button{cursor:pointer;}
+body,html{min-width:100%}
+
+.all{width:100%; float:left;}
+.wrap{/* width:100%; */ width:1200px}
+.clear{clear:both; position:inherit;}
+
+.search{height:80px; width: 1200px; margin-top: 10px}
+.search-right{float: right; margin: 10px;}
+.search-right-text{padding: 5px; margin: 10px}
+.search-right-button{background-color: aqua; padding: 5px; border-radius: 5px; color: white;}
+
+.table-box{height: 100%;}
+.table-ti{
+	text-align: center; 
+	border: 1px solid #dddddd; 
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-radius: 5px
+}
+.table-ti thead{width: 1200px}
+.table-ti thead tr{height: 40px; padding: 5px}
+.table-ti thead tr th{background-color: #fafafa; text-align: center; width: 300px}

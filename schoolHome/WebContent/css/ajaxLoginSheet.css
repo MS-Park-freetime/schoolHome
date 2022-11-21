@@ -1,0 +1,97 @@
+@charset "UTF-8";
+*{
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+	font-family: "맑은 고딕";
+ }
+a{color:inherit; text-decoration:none;}
+button{cursor:pointer;}
+body,html{min-width:100%}
+
+
+.join-container{
+	height: 1000px; 
+	margin: 20px;
+}
+.join-form{
+		vertical-align: middle;
+}
+.join-table{
+	width: 850px;
+	text-align: center; 
+	border: 1px solid #dddddd;
+}
+
+.join-title{
+	border-bottom: 1px solid #f3f3f3;
+	height: 50px
+}
+.join-form-title{
+	width: 150px;
+	margin: 5px;
+	border-right: 1px solid #f3f3f3;
+	background-color: #def4fe;
+	padding: 10px
+}
+.join-form-title1{
+	width: 100px;
+	margin: 5px;
+}
+
+.join-idform{
+	width: 680px;
+	padding: 7px;
+	margin: 5px;
+	border-radius: 5px;
+}
+.join-idform-id{
+	width: 540px;
+	padding: 7px;
+	margin: 5px;
+	border-radius: 5px;
+}
+.join-idform label{
+	text-align: center;
+}
+.join-form-button{
+	width: 110px;
+	background-color: #c6ffb9;
+	border-radius: 5px;
+	padding: 5px;
+	margin: 2px;
+	font-size: 12px
+}
+.join-register{
+	text-align: right;
+	background-color: #b0d8ff;
+	color: white;
+	padding: 8px;
+	margin: 5px;
+	border-radius: 5px
+}
+
+/*메세지창*/
+.message-button{
+	padding: 5px;
+	margin: 1px;
+	border-radius: 10px;
+	background-color: #caf0f0
+}
+.button-close{
+	font-size: 18px
+}
+.topalign{
+	margin-top: 30px
+}
+.modal-content-align{
+	margin-top: 50px
+}
+.modal-total-align{
+	vertical-align: middle;	
+}	
+	
+	
+	
+	
+	

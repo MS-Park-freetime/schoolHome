@@ -1,0 +1,52 @@
+
+.board-table{
+	width: 800px;
+	border: 1px solid;
+	text-align: center;
+}
+.board-table-top{
+	font-size: 15px;
+	color: black;
+	line-height: 160%;
+	padding: 5px;
+}
+.board-table tr{
+	width: 100%;
+}
+.board-table-input{
+	width: 100%;
+}
+.board-table-title{
+	width: 20%;
+	font-size: 15px;
+	color: black;
+	line-height: 160%;
+	padding: 5px;
+}
+.board-table-content{
+	width: 100%;
+	font-size: 15px;
+	color: black;
+	line-height: 160%;
+	padding: 5px;
+}
+.board-table-textarea{
+	width: 100%;
+	resize: none;
+}
+.profile-search-form1{
+	display: block;
+  	background-color: #fff;
+  	background-image: none;
+  	width: 500px;
+  	padding: 5px;
+  	float: left;
+  	margin-left: 5px;
+}
+.board-input-button{
+	border-radius: 5px;
+	background-color: #f3f3f3;
+	margin: 5px;
+	border: 1px solid;
+	padding: 3px;
+}
